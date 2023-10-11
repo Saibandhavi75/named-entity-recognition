@@ -13,8 +13,8 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 .Bidirectional Recurrent Neural Networks connect two hidden layers of opposite directions to the same output.
 ## Neural Network Model:
+![dl6](https://github.com/Saibandhavi75/named-entity-recognition/assets/94208895/63937ef6-bf13-459e-9804-d5332ae09c24)
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
